@@ -1,4 +1,4 @@
-# Évaluation JavaScript — Chapitre 1 (Pratique) — Sans tableaux
+# Évaluation JavaScript — Chapitre 1
 
 ## Objectif
 Réaliser 4 exercices en JavaScript en utilisant uniquement les notions vues au **Chapitre 1** :
@@ -23,14 +23,6 @@ Réaliser 4 exercices en JavaScript en utilisant uniquement les notions vues au 
   ex04_fizzbuzz_console.js
 README.md
 ```
-
-## Comment exécuter
-Dans un terminal :
-```bash
-node exercises/ex01_length_of_last_word.js
-```
-
----
 
 # Exercices
 
