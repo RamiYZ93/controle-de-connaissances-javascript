@@ -12,6 +12,7 @@ Contraintes pédagogiques :
 
 function lengthOfLastWord(s) {
   // TODO: écrire ton code ici
+  k
 
   // Astuce (optionnelle) :
   // 1) Ignorer les espaces à la fin
